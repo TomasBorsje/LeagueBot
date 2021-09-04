@@ -96,7 +96,7 @@ namespace LeagueBot
         }
 
         public static GameConnection con;
-        static Point redSpawn = new Point(1893, 828); //new Point(1893, 828);
+        static Point redSpawn = new Point(1893, 828);
         static Point blueSpawn = new Point(1671, 1050);
         static Point topRight = new Point(1663, 34);
         static Point bottomLeft = new Point(222, 989);
