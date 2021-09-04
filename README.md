@@ -3,4 +3,4 @@ A league bot that can play Ashe mid versus intro bots. It is capable of winning 
 
 **LeagueBot** includes image recognition for targetting W and R abilities, item purchasing, retreating, kiting, and more.
 
-**LeagueBot** is setup for a 1920x1080 monitor.
+**LeagueBot** is setup for 1920x1080 resolution.
